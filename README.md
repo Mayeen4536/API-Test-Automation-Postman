@@ -33,3 +33,14 @@ Tested Endpoints:
 - PUT /users/2
 - PATCH /users/2
 - DELETE /users/2
+
+## 📸 Screenshots
+
+### ✅ POST User Test Results
+![POST Result](./post-user-test-result.png)
+
+### ✅ PUT User Test Results
+![PUT Result](./put-user-test-result.png)
+
+### ✅ PATCH User Test Results
+![PATCH Result](./patch-user-test-result.png)
